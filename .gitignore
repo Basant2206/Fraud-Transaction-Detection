@@ -2,4 +2,5 @@ data/
 project_planning.md
 models/
 notebooks/creditcard.csv
-notebooks/creditcard.csv
+
+!**/data/**/*.dvc
