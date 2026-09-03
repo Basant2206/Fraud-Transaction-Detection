@@ -8,3 +8,8 @@ data_preprocess:
   train_data_path: "data/processed/train.csv"
   test_data_path: "data/processed/test.csv"
 
+model:
+  scaler_path: "models/std_scaler.bin"
+  
+
+

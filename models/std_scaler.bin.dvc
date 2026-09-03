@@ -1,0 +1,5 @@
+outs:
+- md5: c5ce75637e1c26515542922133e0dbd0
+  size: 847
+  hash: md5
+  path: std_scaler.bin

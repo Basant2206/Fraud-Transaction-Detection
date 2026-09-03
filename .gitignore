@@ -1,6 +1,8 @@
-data/
+data/raw/creditcard.csv
+data/raw/train.csv
+data/raw/test.csv
+data/processed/train.csv
+data/processed/test.csv
 project_planning.md
-models/
+models/std_scaler.bin
 notebooks/creditcard.csv
-
-!**/data/**/*.dvc
